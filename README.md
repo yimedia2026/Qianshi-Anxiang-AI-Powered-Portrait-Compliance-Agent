@@ -27,7 +27,7 @@ This agent is built for portrait licensing business scenarios, contains two core
 > 💡 Note: This project has no independent backend service, database or front‑end page. It is delivered based on low‑code Agent platform.
 
 ## 🔗 Live Demo URL
-[Paste‑your‑MiaoDa‑Agent‑Demo‑Link‑Here](https://app-e0tu9gmww6bl.appmiaoda.com/)
+[Click here to view Live Demo](https://app-e0tu9gmww6bl.appmiaoda.com/)
 
 ## 📦 Project Export Archive
 `miaoda‑agent‑export‑backup.zip`
