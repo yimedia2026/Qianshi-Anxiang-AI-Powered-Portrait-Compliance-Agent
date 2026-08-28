@@ -1,5 +1,5 @@
-# Qianshi-Anxiang-AI-Powered-Portrait-Compliance-Agent
-AI‑Powered dual‑module agent for portrait licensing quotation assessment and contract risk compliance review. Demo deployed on MiaoDa Agent platform. Tag: #Guikesong
+# Qianshi‑Anxiang‑AI‑Powered‑Portrait‑Compliance‑Agent
+AI‑Powered dual‑module agent for portrait licensing quotation assessment and contract risk compliance review. Demo deployed on MiaoDa Agent platform.
 
 ## 📌 Project Introduction
 This agent is built for portrait licensing business scenarios, contains two core modules:
@@ -10,10 +10,23 @@ This agent is built for portrait licensing business scenarios, contains two core
 
 ## 🛠️ Tech Stack / Technology Selection
 ### Base & Deployment Platform
-- Agent Platform: MiaoDa Agent
-- Underlying LLM: Built‑in large language model, no fine‑tuning.
+- Low‑code Agent Platform: MiaoDa Agent
+- Underlying Large Language Model: Built‑in general‑purpose LLM, no custom fine‑tuning performed
+- Hosting & Runtime Environment: Cloud‑hosted web environment provided by MiaoDa platform
 
-### Core Implementation
+### Knowledge & Logic Engine
+- Prompt‑driven workflow design
+- Private Vector Knowledge Base: Internal knowledge repository for business rules
+- Rule‑based risk grading logic embedded within system prompts
+
+### Interaction & Output Technology
+- Front‑end Interaction: Native web dialogue interface provided by the agent platform
+- Input Method: Plain‑text copy‑paste input; offline document‑file parsing is not supported
+- Output Standard: Structured Markdown‑formatted quotation sheet and compliance risk‑assessment report
+
+> 💡 Note: This project has no independently‑developed backend service, self‑managed database or custom‑built front‑end page. The whole solution is delivered and operated based on the low‑code Agent platform.
+
+## ⚙️ Core Implementation
 1. Prompt Engineering
     - System Prompt: Built‑in quotation rules, risk grading logic, output constraints and disclaimer.
 2. Private Knowledge Base
@@ -24,20 +37,17 @@ This agent is built for portrait licensing business scenarios, contains two core
     - Plain‑text paste input only, **document file parsing is not supported**
     - Structured Markdown output for quotation sheet and risk report
 
-> 💡 Note: This project has no independent backend service, database or front‑end page. It is delivered based on low‑code Agent platform.
-
 ## 🔗 Live Demo URL
 [Click here to view Live Demo](https://app-e0tu9gmww6bl.appmiaoda.com/)
 
 ## 📦 Project Export Archive
 `miaoda‑agent‑export‑backup.zip`
+
 Raw exported archive downloaded from MiaoDa Agent platform.
-Notice: This file cannot run independently. You need import it into MiaoDa Agent to load the agent.
+Notice: This file cannot run independently. You need to import it into MiaoDa Agent to load the agent.
 
 ## 🧪 Test Cases
 Test scripts for quotation evaluation and contract compliance checking.
 
 ## 🚀 Future Plan
 Cooperate with local media companies in Guizhou to complete real‑world pilot deployment of portrait‑licensing review service.
-
-Tag: #Guikesong
