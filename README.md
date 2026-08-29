@@ -1,3 +1,32 @@
+# 黔视安像‑AI肖像授权报价与合同风控智能Agent
+多彩贵州·贵客松AI共创大赛参赛项目
+
+## 🚀 Demo体验地址
+https://app-e0tu9gmww6bl.appmiaoda.com/
+
+## 🛠️ 技术栈
+1. AI Agent开发平台：秒哒 MiaoDa
+2. 大模型基座：通用大语言模型
+3. 知识库：演出经纪报价知识库与肖像授权风控审查知识库
+4. 交互前端：秒哒自带Web会话界面
+5. 项目文档：Markdown + PPT演示文稿
+
+## 🛠️ Tech Stack
+1. AI‑Agent Development Platform: MiaoDa
+2. Large‑language‑model Base: General LLM
+3. Knowledge Base: Portrait Authorization Risk‑review Knowledge Base
+4. Front‑end Interface: Built‑in Web Session of MiaoDa
+5. Project Documentation: Markdown + PPT
+
+## 📌项目简介
+面向贵州AI视听内容创作场景，提供肖像授权自动报价 + AI肖像合同八大维度风控审查。
+本项目48小时竞赛产出成果：报价引擎提示词、合同风控知识库、可交互演示原型。
+业务底座：广州小翼传媒成熟肖像授权业务沉淀。
+未来规划：对接贵州广电、文旅企业落地2‑3个真实AI视听项目。
+
+#Guikesong
+
+
 # Qianshi‑Anxiang‑AI‑Powered‑Portrait‑Compliance‑Agent
 AI‑Powered dual‑module agent for portrait licensing quotation assessment and contract risk compliance review. Demo deployed on MiaoDa Agent platform.
 
